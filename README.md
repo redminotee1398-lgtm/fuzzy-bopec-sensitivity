@@ -8,7 +8,7 @@ Code repository for:
 
 > **Analytical Sensitivity Bounds for System-Level Performance in Bi-Level Optimization with Nash Equilibrium Constraints**  
 > H. Aghaei Ata, M. Jahromi, R. Keshavarzfard  
-> *Operations Research Letters* (under review, 2025)
+> *Operations Research Letters* (under review, 2026)
 
 and its fuzzy extension:
 
@@ -51,8 +51,8 @@ fuzzy-bopec/
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/fuzzy-bopec.git
-cd fuzzy-bopec
+git clone https://github.com/redminotee1398/fuzzy-bopec-sensitivity.git
+cd fuzzy-bopec-sensitivity
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -126,7 +126,7 @@ If you use this code, please cite:
              in Bi-Level Optimization with Nash Equilibrium Constraints},
   author  = {Aghaei Ata, Hossein and Jahromi, Meghdad and Keshavarzfard, Razieh},
   journal = {Operations Research Letters},
-  year    = {2025},
+  year    = {2026},
   note    = {Under review}
 }
 ```
