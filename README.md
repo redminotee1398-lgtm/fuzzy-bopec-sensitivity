@@ -99,7 +99,7 @@ results/
 | System | $\tilde{B}$ | Core | [LB, UB] | Shape |
 |---|---|---|---|---|
 | Linear n=3 | (0.8, 1.0, 1.2) | 8.697 | [8.582, 8.813] | Exactly Triangular |
-| Cournot | (0.5, 1.0, 2.0) | 1.416 | [0.972, 1.638] | Quasi-Triangular |
+| Cournot | (0.5, 1.0, 2.0) | 1.416 | [0.972, 1.638] | Exactly Triangular |
 
 ---
 
